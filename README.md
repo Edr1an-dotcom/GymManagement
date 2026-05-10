@@ -45,3 +45,13 @@ changes made by Ababa as per Costanilla via Mr Montecillo's advice.
 > Implemented by Ababa, with backend validation support and UI logic review by Magbanua.
 
 > Changes reviewed by Costanilla.
+
+(5/10/2026)
+
+> UI redesign planning for the GymManagement system was started by Diaz as the UI Manager. The goal was to improve the look of the system by changing the plain and simple design into a more colorful and attractive interface using bright colors, background pictures, and better panel layouts.
+
+> The dashboard, login form, and registration form were redesigned using colors such as orange, yellow, peach, and white to create a consistent gym-themed design. Background images and character pictures were added to make the forms more appealing, while the panels were arranged properly to make the information easier to read and understand.
+
+> Several UI improvements were also made, such as redesigning the buttons, fixing the spacing of components, and organizing labels, textboxes, and date pickers neatly inside each panel. Different panel background colors and images were used to separate sections clearly while still keeping the same overall style for the system.
+
+> Repaso also gave feedback and suggestions during the redesign process by checking the consistency of colors, button placements, panel sizes, and overall user friendliness of the interface. Suggestions were made to keep the design simple, organized, and easy for users to navigate.
